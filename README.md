@@ -1,3 +1,3 @@
 ### Fundamentos Básicos do PHP
 
-<p>Repositório destinado aos meus estudos sobre o PHP</p>
+Neste repositório deixarei meus estudos aos fundamentos básicos do PHP com objetivo de ajudar iniciantes como eu
