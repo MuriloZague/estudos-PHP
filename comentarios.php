@@ -1,7 +1,7 @@
 <?php
 /**
  * 
- * comentário de
+ * comentário de 
  * várias linhas
  */
 
